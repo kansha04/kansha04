@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @kansha04
-- 👀 I’m interested in learning how to code like a pro
+- 👀 I’m interested in learning how things work and to apply myself.
 - 🌱 I’m currently learning Front-End Web Developement, C# and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
 - ⚡ Fun fact: I love Arizona Green Tea
 
 <!---
